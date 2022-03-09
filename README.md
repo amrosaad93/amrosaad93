@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I'm Amro
+
+- 🔭 I’m a Frontend Developer (React)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amro-saad-4a987694/)
+
+
 <!--
 **amrosaad93/amrosaad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
