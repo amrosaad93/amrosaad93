@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Amro 👋 
 
-### I'm Amro
-
-- 🔭 I’m a Frontend Developer (React)
+- 🔭 Frontend Developer (React)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amro-saad-4a987694/)
 
 
